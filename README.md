@@ -1,10 +1,10 @@
-Café Ctrl
+Ctrl Café
 
-Bem-vindo ao repositório do Café Ctrl! Este é o site oficial do café, onde você encontra informações sobre o ambiente, o menu, avaliações de clientes e muito mais.
+Bem-vindo ao repositório do Ctrl Café! Este é o site oficial do café, onde você encontra informações sobre o ambiente, o menu, avaliações de clientes e muito mais.
 
 Visão Geral
 
-O Café Ctrl é um espaço moderno que oferece uma experiência única para os amantes de café e tecnologia. Nosso site foi desenvolvido para proporcionar uma navegação fácil e rápida, onde os visitantes podem explorar nosso cardápio, ler avaliações e localizar o café.
+O Ctrl Café é um espaço moderno que oferece uma experiência única para os amantes de café e tecnologia. Nosso site foi desenvolvido para proporcionar uma navegação fácil e rápida, onde os visitantes podem explorar nosso cardápio, ler avaliações e localizar o café.
 
 Funcionalidades
 
